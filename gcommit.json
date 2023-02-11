@@ -1,0 +1,9 @@
+{
+    "ProjectName": "Insert Project Name here",
+    "REQ" : "Insert REQ here",
+    "Sprint" : "Insert Sprint number here",
+    "HU" : "Insert HU here",
+    "RFC" : "Insert RFC here",
+    "Type":["fix", "feat", "BREAKING CHANGE"],
+    "Scope":["release", "models", "controllers", "frontend"]
+}
